@@ -5,7 +5,7 @@ Modul praktikum 6 ini berisikan latihan menggunakan dictionary pada python, dan 
 
 
 ### Latihan yang pertama adalah membuat daftar keluar masuk mahasiswa dengan menggunakan dictionary pada python
-- berikut gambaran source code nya:
+- berikut source code nya:
 ```python
 datakeluarmasukmahasiswa = {"nama":"nim"}
 nim = {'Jono':'312110989', 'Arum':'312118986'}
@@ -55,3 +55,24 @@ nim.pop('Arum')
 print("="*60)
 print(nim.items())
 print("="*60)
+```
+
+Dengan penjelasan source code sebagai berikut:
+- Dibawah ini adalah untuk menampung data dari dictionary
+
+```python
+datakeluarmasukmahasiswa = {"nama":"nim"}
+nim = {'Jono':'312110989', 'Arum':'312118986'}
+```
+
+- Sedangkan code dibawah adalah untuk mengakses atau menampilkan kontak yang telah ditampung dalam data dictionary tersebut
+
+```python
+print("      Daftar Mahasiswa    ")
+print("="*30)
+print("   nama     |       nim   ")
+print("="*30)
+print("   Jono     |   ",nim['Jono'])
+print("   Arum     |   ",nim['Arum'])
+print("="*30)
+```
