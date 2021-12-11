@@ -78,5 +78,5 @@ print("="*30)
 ```
 - berikut hasil programnya:
 
-![gambar1](ssan latihan/ssan1.png)
+![gambar1](ssanlatihan/ssan1.png)
 
