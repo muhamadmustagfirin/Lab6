@@ -65,7 +65,7 @@ datakeluarmasukmahasiswa = {"nama":"nim"}
 nim = {'Jono':'312110989', 'Arum':'312118986'}
 ```
 
-- Sedangkan code dibawah adalah untuk mengakses atau menampilkan kontak yang telah ditampung dalam data dictionary tersebut
+- Sedangkan code dibawah adalah untuk mengakses atau menampilkan nim yang telah ditampung dalam data dictionary tersebut
 
 ```python
 print("      Daftar Mahasiswa    ")
