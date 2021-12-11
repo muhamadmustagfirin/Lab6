@@ -263,7 +263,7 @@ while True:
 
 - berikut dengan flowchart programnya:
 
-![gambar11](screenshot/flowchart_daftar_nilai_mahasiswa.png)
+![gambar11](ssanlatihan/flowchart.png)
 
 Dengan penjelasan source code sebagai berikut:
 - Code dibawah ini untuk membuat dictionary kosong, untuk menampung dictionary dengan menggunakan tuple
